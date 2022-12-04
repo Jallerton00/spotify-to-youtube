@@ -1,0 +1,4 @@
+playlistId = ""
+SPOTIFY_CLIENT_ID = ""
+SPOTIFY_CLIENT_SECRET = ""
+SPOTIFY_CLIENT_REDIRECT = "http://localhost:8080"
